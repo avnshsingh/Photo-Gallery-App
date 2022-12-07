@@ -1,3 +1,3 @@
-## Available Scripts
+## Check out the live version
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Photo Gallery App](https://tiny-capybara-028e62.netlify.app/)
